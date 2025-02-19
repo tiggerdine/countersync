@@ -1,3 +1,5 @@
+package com.github.tiggerdine.countersync.backend;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
