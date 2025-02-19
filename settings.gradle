@@ -1,0 +1,3 @@
+rootProject.name = 'countersync'
+include 'countersync-backend'
+include 'countersync-frontend'
