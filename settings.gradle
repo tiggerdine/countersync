@@ -1,3 +1,4 @@
 rootProject.name = 'countersync'
 include 'countersync-backend'
+include 'countersync-database'
 include 'countersync-frontend'
